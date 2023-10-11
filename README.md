@@ -11,5 +11,5 @@ Price as low as 0.6$/1k
 VIP can also get a 20% discount on this basis
 
 Here is the link:
-[https://www.ez-captcha.com](https://dashboard.ez-captcha.com/register?inviteCode=HaNjpwRcUit)https://dashboard.ez-captcha.com/register?inviteCode=HaNjpwRcUit
+https://dashboard.ez-captcha.com/#/register?inviteCode=HaNjpwRcUit
 
